@@ -9,7 +9,7 @@ It includes table creation, data insertion, and example queries for analysis.
 - Run queries to fetch student details and performance
 
 ## How to Use
-1. Download the 'StudentManagement.sql' file.
+1. Download the [StudentManagement.sql](https://github.com/user-attachments/files/22580473/StudentManagement.sql) file.
 2. Open it in MySQL Workbench (or any SQL client).
 3. Run the script to create the database.
 
@@ -19,6 +19,5 @@ It includes table creation, data insertion, and example queries for analysis.
 
 ## Author
 👩‍💻 Riya Kumar - Data Analytics Enthusiast
-[StudentManagement.sql](https://github.com/user-attachments/files/22580447/StudentManagement.sql)
 
 
