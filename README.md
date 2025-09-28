@@ -19,4 +19,6 @@ It includes table creation, data insertion, and example queries for analysis.
 
 ## Author
 👩‍💻 Riya Kumar - Data Analytics Enthusiast
+[StudentManagement.sql](https://github.com/user-attachments/files/22580447/StudentManagement.sql)
+
 
