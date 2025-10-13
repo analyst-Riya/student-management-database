@@ -1,5 +1,5 @@
 # Student Management Database SQL Project
-#TASK 1 INTERNSHIP
+# TASK 1 INTERNSHIP
 A Student Management System built with SQL - includes table creation, sample data, and queries for managing student information.
 This repository contains SQL scripts for creating and managing a **Student Database**.
 It includes table creation, data insertion, and example queries for analysis.
