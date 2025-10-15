@@ -4,11 +4,11 @@ This project was part of my internship at @Main Crafts Technology.
 In Task 1, I created the basic Student Management Database to manage student information.
 
 A Student Management System built with SQL - includes table creation, sample data, and queries for managing student information.
-This repository contains SQL scripts for creating and managing a **Student Database**.
+This repository contains SQL scripts for creating and managing a *Student Database*.
 It includes table creation, data insertion, and example queries for analysis.
 
 ## 📘 Task Overview
-- Created tables for **Students**.  
+- Created tables for *Students*.  
 - Inserted sample data for student records.  
 - Designed a simple database structure to store and retrieve student information.
 
