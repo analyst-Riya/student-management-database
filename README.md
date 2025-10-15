@@ -1,6 +1,6 @@
 # Student Management Database – Task 1
 
-This project was part of my internship.  
+This project was part of my internship at @Main Crafts Technology.  
 In Task 1, I created the basic Student Management Database to manage student information.
 
 A Student Management System built with SQL - includes table creation, sample data, and queries for managing student information.
@@ -26,7 +26,7 @@ It includes table creation, data insertion, and example queries for analysis.
 2. Open it in MySQL Workbench (or any SQL client).
 3. Run the script to create the database.
 
-##Technologies 
+## Technologies 
 - SQL
 - MySQL
 
