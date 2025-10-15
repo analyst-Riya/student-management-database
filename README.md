@@ -18,7 +18,7 @@ It includes table creation, data insertion, and example queries for analysis.
 - Queries to fetch student details (SELECT statements)  
 
 ## 🗂️ Files Included
-- [StudentManagement_Task1_Riya_Kumar.sql](https://github.com/user-attachments/files/22923264/StudentManagement_Task1_Riya_Kumar.sql)` — SQL script with table creation and sample data  
+- [StudentManagement_Task1_Riya_Kumar.sql](https://github.com/user-attachments/files/22923264/StudentManagement_Task1_Riya_Kumar.sql) — SQL script with table creation and sample data  
 - `README.md` — project documentation  
 
 ## 🛠️ How to Use
